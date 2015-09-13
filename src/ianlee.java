@@ -8,7 +8,7 @@ import org.teachingextensions.logo.Tortoise;
  * is printed in the red curriculum folder.
  */
 
-public class ho {
+public class ianlee {
 
 	public static void main(String[] args) {
 
