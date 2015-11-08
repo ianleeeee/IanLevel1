@@ -28,7 +28,7 @@ public class addMult implements ActionListener {
 		panel.add(add1);
 		panel.add(mult);
 		add1.addActionListener(this);
-		mult.addActionListener(this);
+		mult.addActionListener	(this);
 		frame.setSize(225, 100);
 	}
 
